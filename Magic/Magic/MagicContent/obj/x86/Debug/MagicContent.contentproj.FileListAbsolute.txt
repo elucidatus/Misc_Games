@@ -1,0 +1,3 @@
+C:\Users\student\Downloads\Magic\Magic\MagicContent\obj\x86\Debug\MagicContent.contentprojResolveAssemblyReference.cache
+G:\My Stuff\Game Programming\Magic\Magic\MagicContent\obj\x86\Debug\MagicContent.contentprojResolveAssemblyReference.cache
+F:\My Stuff\Game Programming\Magic\Magic\MagicContent\obj\x86\Debug\MagicContent.contentprojResolveAssemblyReference.cache

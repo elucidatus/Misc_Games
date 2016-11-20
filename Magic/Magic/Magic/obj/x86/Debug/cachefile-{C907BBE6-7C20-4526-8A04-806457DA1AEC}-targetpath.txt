@@ -1,0 +1,2 @@
+Content\rectange.xnb
+Content\shooter.xnb

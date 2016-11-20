@@ -1,0 +1,48 @@
+F:\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.exe
+F:\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.pdb
+F:\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.exe
+F:\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.pdb
+F:\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\ball.xnb
+F:\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\floor.xnb
+F:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\ball.xnb
+F:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\floor.xnb
+F:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.exe
+F:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.pdb
+F:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.exe
+F:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.pdb
+F:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\ball.xnb
+G:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\floor.xnb
+G:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.exe
+G:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.pdb
+G:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.csprojResolveAssemblyReference.cache
+G:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.exe
+G:\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.pdb
+F:\USBDEATHNOTE\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\ball.xnb
+F:\USBDEATHNOTE\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\floor.xnb
+F:\USBDEATHNOTE\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.exe
+F:\USBDEATHNOTE\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.pdb
+F:\USBDEATHNOTE\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.csprojResolveAssemblyReference.cache
+F:\USBDEATHNOTE\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\USBDEATHNOTE\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.exe
+F:\USBDEATHNOTE\.0_My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.pdb
+F:\My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\ball.xnb
+F:\My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\floor.xnb
+F:\My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.exe
+F:\My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.pdb
+F:\My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.csprojResolveAssemblyReference.cache
+F:\My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.exe
+F:\My Stuff\Game Programming\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.pdb
+F:\My Stuff\Game Programming\Archive\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\ball.xnb
+F:\My Stuff\Game Programming\Archive\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\Content\floor.xnb
+F:\My Stuff\Game Programming\Archive\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.exe
+F:\My Stuff\Game Programming\Archive\PhysicsBounce\PhysicsBounce\PhysicsBounce\bin\x86\Debug\PhysicsBounce.pdb
+F:\My Stuff\Game Programming\Archive\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My Stuff\Game Programming\Archive\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\My Stuff\Game Programming\Archive\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.exe
+F:\My Stuff\Game Programming\Archive\PhysicsBounce\PhysicsBounce\PhysicsBounce\obj\x86\Debug\PhysicsBounce.pdb

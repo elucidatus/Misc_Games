@@ -1,0 +1,10 @@
+Content\Block.xnb
+Content\Person1.xnb
+Content\Person2.xnb
+Content\person3.xnb
+Content\Defense.xnb
+Content\flycon.xnb
+Content\hearty.xnb
+Content\shield.xnb
+Content\GameFont.xnb
+Content\SpriteFont1.xnb
