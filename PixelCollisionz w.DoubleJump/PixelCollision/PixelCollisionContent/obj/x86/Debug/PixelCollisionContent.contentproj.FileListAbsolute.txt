@@ -1,0 +1,10 @@
+C:\Users\StrikeZero\Desktop\PixelCollision\PixelCollision\PixelCollisionContent\obj\x86\Debug\PixelCollisionContent.contentprojResolveAssemblyReference.cache
+C:\Users\Patipol\Desktop\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollisionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollisionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollisionContent\obj\x86\Debug\PixelCollisionContent.contentprojResolveAssemblyReference.cache
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollisionContent\obj\x86\Debug\PixelCollisionContent.contentprojResolveAssemblyReference.cache
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollisionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollisionContent\obj\x86\Debug\PixelCollisionContent.contentprojResolveAssemblyReference.cache
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollisionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollisionContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollisionContent\obj\x86\Debug\PixelCollisionContent.contentprojResolveAssemblyReference.cache

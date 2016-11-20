@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PixelCollision", "PixelCollision\PixelCollision\PixelCollision.csproj", "{FEAD38A8-2492-4792-BC91-8AE5C4849E4A}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "PixelCollisionContent", "PixelCollision\PixelCollisionContent\PixelCollisionContent.contentproj", "{3FC34739-2269-497D-9466-763F18850FC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEAD38A8-2492-4792-BC91-8AE5C4849E4A}.Debug|x86.ActiveCfg = Debug|x86
+		{FEAD38A8-2492-4792-BC91-8AE5C4849E4A}.Debug|x86.Build.0 = Debug|x86
+		{FEAD38A8-2492-4792-BC91-8AE5C4849E4A}.Release|x86.ActiveCfg = Release|x86
+		{FEAD38A8-2492-4792-BC91-8AE5C4849E4A}.Release|x86.Build.0 = Release|x86
+		{3FC34739-2269-497D-9466-763F18850FC7}.Debug|x86.ActiveCfg = Debug|x86
+		{3FC34739-2269-497D-9466-763F18850FC7}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

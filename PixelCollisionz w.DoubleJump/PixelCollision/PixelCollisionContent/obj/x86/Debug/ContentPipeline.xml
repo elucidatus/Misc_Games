@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Block.bmp</Source>
+      <Name>Block</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb</Output>
+      <Time>2012-12-22T20:24:12-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Person1.bmp</Source>
+      <Name>Person1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person1.xnb</Output>
+      <Time>2012-12-12T19:18:20-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Person2.bmp</Source>
+      <Name>Person2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person2.xnb</Output>
+      <Time>2012-12-12T19:22:28-06:00</Time>
+    </Item>
+    <Item>
+      <Source>person3.bmp</Source>
+      <Name>person3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\person3.xnb</Output>
+      <Time>2012-12-22T18:17:58-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Defense.bmp</Source>
+      <Name>Defense</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Defense.xnb</Output>
+      <Time>2012-12-22T18:19:10-06:00</Time>
+    </Item>
+    <Item>
+      <Source>flycon.bmp</Source>
+      <Name>flycon</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\flycon.xnb</Output>
+      <Time>2012-12-23T13:58:56-06:00</Time>
+    </Item>
+    <Item>
+      <Source>hearty.bmp</Source>
+      <Name>hearty</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\hearty.xnb</Output>
+      <Time>2013-01-06T06:59:08-06:00</Time>
+    </Item>
+    <Item>
+      <Source>shield.png</Source>
+      <Name>shield</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\shield.xnb</Output>
+      <Time>2013-01-16T16:28:22-06:00</Time>
+    </Item>
+    <Item>
+      <Source>GameFont.spritefont</Source>
+      <Name>GameFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\GameFont.xnb</Output>
+      <Time>2013-01-06T22:43:46-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-01-07T05:20:46-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollisionContent\</RootDirectory>
+      <LoggerRootDirectory>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\</LoggerRootDirectory>
+      <IntermediateDirectory>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollisionContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-31T14:10:27.2058233-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

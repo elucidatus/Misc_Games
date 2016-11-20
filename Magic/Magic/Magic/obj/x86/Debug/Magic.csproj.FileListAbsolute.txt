@@ -1,0 +1,24 @@
+C:\Users\student\Downloads\Magic\Magic\Magic\bin\x86\Debug\Content\rectange.xnb
+C:\Users\student\Downloads\Magic\Magic\Magic\bin\x86\Debug\Magic.exe
+C:\Users\student\Downloads\Magic\Magic\Magic\bin\x86\Debug\Magic.pdb
+C:\Users\student\Downloads\Magic\Magic\Magic\obj\x86\Debug\Magic.csprojResolveAssemblyReference.cache
+C:\Users\student\Downloads\Magic\Magic\Magic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\student\Downloads\Magic\Magic\Magic\obj\x86\Debug\Magic.exe
+C:\Users\student\Downloads\Magic\Magic\Magic\obj\x86\Debug\Magic.pdb
+C:\Users\student\Downloads\Magic\Magic\Magic\bin\x86\Debug\Content\shooter.xnb
+G:\My Stuff\Game Programming\Magic\Magic\Magic\bin\x86\Debug\Content\rectange.xnb
+G:\My Stuff\Game Programming\Magic\Magic\Magic\bin\x86\Debug\Content\shooter.xnb
+G:\My Stuff\Game Programming\Magic\Magic\Magic\bin\x86\Debug\Magic.exe
+G:\My Stuff\Game Programming\Magic\Magic\Magic\bin\x86\Debug\Magic.pdb
+G:\My Stuff\Game Programming\Magic\Magic\Magic\obj\x86\Debug\Magic.csprojResolveAssemblyReference.cache
+G:\My Stuff\Game Programming\Magic\Magic\Magic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\My Stuff\Game Programming\Magic\Magic\Magic\obj\x86\Debug\Magic.exe
+G:\My Stuff\Game Programming\Magic\Magic\Magic\obj\x86\Debug\Magic.pdb
+F:\My Stuff\Game Programming\Magic\Magic\Magic\bin\x86\Debug\Content\rectange.xnb
+F:\My Stuff\Game Programming\Magic\Magic\Magic\bin\x86\Debug\Content\shooter.xnb
+F:\My Stuff\Game Programming\Magic\Magic\Magic\bin\x86\Debug\Magic.exe
+F:\My Stuff\Game Programming\Magic\Magic\Magic\bin\x86\Debug\Magic.pdb
+F:\My Stuff\Game Programming\Magic\Magic\Magic\obj\x86\Debug\Magic.csprojResolveAssemblyReference.cache
+F:\My Stuff\Game Programming\Magic\Magic\Magic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\My Stuff\Game Programming\Magic\Magic\Magic\obj\x86\Debug\Magic.exe
+F:\My Stuff\Game Programming\Magic\Magic\Magic\obj\x86\Debug\Magic.pdb

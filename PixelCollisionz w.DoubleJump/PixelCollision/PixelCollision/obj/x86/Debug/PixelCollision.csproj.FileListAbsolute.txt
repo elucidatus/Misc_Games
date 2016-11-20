@@ -1,0 +1,131 @@
+C:\Users\StrikeZero\Desktop\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+C:\Users\StrikeZero\Desktop\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person.xnb
+C:\Users\StrikeZero\Desktop\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+C:\Users\StrikeZero\Desktop\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+C:\Users\StrikeZero\Desktop\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.csprojResolveAssemblyReference.cache
+C:\Users\StrikeZero\Desktop\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\StrikeZero\Desktop\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+C:\Users\StrikeZero\Desktop\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+C:\Users\Patipol\Desktop\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+C:\Users\Patipol\Desktop\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person.xnb
+C:\Users\Patipol\Desktop\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+C:\Users\Patipol\Desktop\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+C:\Users\Patipol\Desktop\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Patipol\Desktop\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Patipol\Desktop\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+C:\Users\Patipol\Desktop\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person1.xnb
+C:\Users\Daniel Sleiman\Dropbox\Harmony High School\Notes\Dec. 4 2012\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person2.xnb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person1.xnb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person2.xnb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.csprojResolveAssemblyReference.cache
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\person3.xnb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\Defense.xnb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\flycon.xnb
+C:\Users\Danni\Desktop\GP Projects\PixelCollision\PixelCollision\PixelCollision\bin\x86\Debug\Content\hearty.xnb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person1.xnb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person2.xnb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\Content\person3.xnb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\Content\Defense.xnb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\Content\flycon.xnb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\Content\hearty.xnb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\Content\GameFont.xnb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.csprojResolveAssemblyReference.cache
+F:\Game Programming\PixelCollisionz\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person1.xnb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person2.xnb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\person3.xnb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Defense.xnb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\flycon.xnb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\hearty.xnb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\GameFont.xnb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+F:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person1.xnb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person2.xnb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\person3.xnb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Defense.xnb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\flycon.xnb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\hearty.xnb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\GameFont.xnb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\SpriteFont1.xnb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.csprojResolveAssemblyReference.cache
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+I:\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person1.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person2.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\person3.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Defense.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\flycon.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\hearty.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\GameFont.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\SpriteFont1.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person1.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person2.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\person3.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Defense.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\flycon.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\hearty.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\GameFont.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\SpriteFont1.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Block.xnb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person1.xnb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Person2.xnb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\person3.xnb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\Defense.xnb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\flycon.xnb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\hearty.xnb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\GameFont.xnb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.exe
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\PixelCollision.pdb
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.exe
+C:\Users\Daniel Sleiman\Downloads\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.pdb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\shield.xnb
+F:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\bin\x86\Debug\Content\shield.xnb
+G:\.0_My Stuff\Game Programming\PixelCollisionz w.DoubleJump\PixelCollision\PixelCollision\obj\x86\Debug\PixelCollision.csprojResolveAssemblyReference.cache
